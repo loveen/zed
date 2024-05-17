@@ -8469,6 +8469,7 @@ dependencies = [
  "theme",
  "ui",
  "util",
+ "workspace",
 ]
 
 [[package]]
@@ -13078,6 +13079,7 @@ dependencies = [
  "recent_projects",
  "release_channel",
  "rope",
+ "runtimes",
  "search",
  "serde",
  "serde_json",
